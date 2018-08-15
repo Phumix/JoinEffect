@@ -1,0 +1,308 @@
+
+#           JoinEffect          #
+
+
+# Hope you enjoy the plugin
+
+# IF YOU NEED ADDITIONAL HELP VISIT THE SPIGOT PROJECT PAGE HERE: https://www.spigotmc.org/resources/joineffect.1288/
+
+# Setting potion time to 99999 makes it infinite!
+
+# To set fireworks on join and remove effect on join, go to the bottom of the config file, you will find the settings there...
+
+
+
+# JUMP EFFECT #
+
+# Permission: joineffect.jump
+# Recommended Jumpheight: 1-10
+
+JumpEnabled: true
+JumpHeight: 1
+JumpTime: 999
+
+
+
+# SPEED EFFECT #
+
+# Permission: joineffect.speed
+# Recommended SpeedLevel: 1-10
+
+SpeedEnabled: false
+SpeedLevel: 1
+SpeedTime: 999
+
+
+
+# CONFUSION EFFECT #
+
+# Permission: joineffect.confusion
+# Recommended ConfusionLevel: 1-10
+
+ConfusionEnabled: false
+ConfusionLevel: 1
+ConfusionTime: 999
+
+
+
+# WITHER EFFECT #
+
+# Permission: joineffect.wither
+
+WitherEnabled: false
+WitherLevel: 1
+WitherTime: 999
+
+
+
+# BLINDNESS EFFECT #
+
+# Permission: joineffect.blindness
+
+BlindnessEnabled: false
+BlindnessLevel: 1
+BlindnessTime: 999
+
+
+
+# DAMAGE EFFECT #
+
+# Permission: joineffect.damage
+
+DamageResistanceEnabled: false
+DamageResistanceLevel: 1
+DamageResistanceTime: 999
+
+
+
+# FAST DIGGING EFFECT #
+# Permission: joineffect.fastdigging
+
+FastDiggingEnabled: false
+FastDiggingLevel: 1
+FastDiggingTime: 999
+
+
+
+# FIRE RESISTANCE EFFECT #
+
+# Permission: joineffect.fireresistance
+
+FireResitanceEnabled: false
+FireResitanceLevel: 1
+FireResitanceTime: 999
+
+
+
+# HARM EFFECT #
+
+# Permission: joineffect.harm
+
+HarmEnabled: false
+HarmLevel: 1
+HarmTime: 999
+
+
+
+# HEAL EFFECT #
+
+# Permission: joineffect.heal
+
+HealEnabled: false
+HealLevel: 1
+HealTime: 999
+
+
+
+# HUNGER EFFECT #
+
+# Permission: joineffect.hunger
+
+HungerEnabled: false
+HungerLevel: 1
+HungerTime: 999
+
+
+
+# STRENGTH EFFECT #
+
+# Permission: joineffect.strength
+
+StrenghtEnabled: false
+StrengthLevel: 1
+StrengthTime: 999
+
+
+
+# INVISIBILITY EFFECT #
+
+# Permission: joineffect.invisible
+
+InvisibilityEnabled: false
+InvisibilityLevel: 1
+InvisibilityTime: 999
+
+
+
+# NIGHT VISION EFFECT #
+
+# Permission: joineffect.nightvision
+
+NightVisionEnabled: false
+NightVisionLevel: 1
+NightVisionTime: 999
+
+
+
+# POISON EFFECT #
+
+# Permission: joineffect.poison
+
+PoisonEnabled: false
+PoisonLevel: 1
+PoisonTime: 999
+
+
+
+# REGENERATION EFFECT #
+
+# Permission: joineffect.regeneration
+
+RegenerationEnabled: false
+RegenerationLevel: 1
+RegenerationTime: 999
+
+
+
+# SLOWNESS EFFECT #
+
+# Permission: joineffect.slowness
+
+SlownessEnabled: false
+SlownessLevel: 1
+SlownessTime: 999
+
+
+
+# SLOW MINING EFFECT #
+
+# Permission: joineffect.slowdigging
+
+SlowDiggingEnabled: false
+SlowDiggingLevel: 1
+SlowDiggingTime: 999
+
+
+
+# WATER BREATHING EFFECT #
+
+# Permission: joineffect.waterbreathing
+
+WaterBreathingEnabled: false
+WaterBreathingLevel: 1
+WaterBreathingTime: 999
+
+
+
+# WEAKNESS EFFECT #
+
+# Permission: joineffect.weakness
+
+WeaknessEnabled: false
+WeaknessLevel: 1
+WeaknessTime: 999
+
+
+
+# SATURATION EFFECT #
+
+# Permission: joineffect.saturation
+
+SaturationEnabled: false
+SaturationLevel: 1
+SaturationTime: 999
+
+
+
+# HEALTH BOOST EFFECT #
+
+# Permission: joineffect.healthboost
+
+HealthBoostEnabled: false
+HealthBoostLevel: 1
+HealthBoostTime: 999
+
+
+
+# GLOWING EFFECT #
+
+# Permission: joineffect.glowing
+
+GlowingEnabled: false
+GlowingLevel: 1
+GlowingTime: 999
+
+
+
+# LEVITATION EFFECT #
+
+# Permission: joineffect.levitation
+
+LevitationEnabled: false
+LevitationLevel: 1
+LevitationTime: 999
+
+
+
+# LUCK EFFECT #
+
+# Permission: joineffect.luck
+
+LuckEnabled: false
+LuckLevel: 1
+LuckTime: 999
+
+
+
+# UNLUCK EFFECT #
+
+# Permission: joineffect.unluck
+
+UnluckEnabled: false
+UnluckLevel: 1
+UnluckTime: 999
+
+
+# DOLPHINS GRACE EFFECT #
+
+# Permission: joineffect.dolphinsgrace
+
+DolphinsGraceEnabled: false
+DolphinsGraceLevel: 1
+DolphinsGraceTime: 999
+
+
+
+# CONDUIT POWER EFFECT #
+
+# Permission: joineffect.conduitpower
+
+ConduitPowerEnabled: false
+ConduitPowerLevel: 1
+ConduitPowerTime: 999
+
+
+
+#------------------------#
+# OTHER OPTIONS & EXTRAS #
+#------------------------#
+
+# Permission: joineffect.remove
+# Removes all current effects, adds above effects
+# This option basically renews time each time a player joins
+
+RemoveEffects: false
+
+#Enables a firework to be shot upon join! These fireworks are completely random.
+
+FireworksEnabled: True

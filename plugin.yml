@@ -1,0 +1,5 @@
+main: me.hiddenaether.joineffect.Main
+name: JoinEffect
+version: 3
+author: HiddenAether
+description: Provide various effects upon join
